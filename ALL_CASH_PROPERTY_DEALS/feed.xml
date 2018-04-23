@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:3BAD63CB-D47B-4717-80E4-B351A378BE75</id>
+ <title>Page list Atom feed</title>
+ <updated>2018-04-23T13:07:54-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:675EEC41-C841-4D77-A081-FF1E8D52C502</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">675EEC41-C841-4D77-A081-FF1E8D52C502</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2018-04-23T13:07:54.001-04:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:04DC4518-0EBB-4213-BD0A-CC6B3D68DE5A</id>
+  <title>How It Works</title>
+  <title xmlns="urn:iweb:">How It Works</title>
+  <in-navbar xmlns="urn:iweb:">04DC4518-0EBB-4213-BD0A-CC6B3D68DE5A</in-navbar>
+  <link rel="alternate" href="How_It_Works.html"/>
+  <updated>2018-04-23T13:07:54.002-04:00</updated>
+  <content>How It Works</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FD7F3CDA-F1F7-4574-8B84-C2085A66A844</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">FD7F3CDA-F1F7-4574-8B84-C2085A66A844</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2018-04-23T13:07:54.003-04:00</updated>
+  <content>Contact</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9352D8D6-6257-4229-BC53-2B854D554551</id>
+  <title>Referral</title>
+  <title xmlns="urn:iweb:">Referral</title>
+  <in-navbar xmlns="urn:iweb:">9352D8D6-6257-4229-BC53-2B854D554551</in-navbar>
+  <link rel="alternate" href="Referral.html"/>
+  <updated>2018-04-23T13:07:54.004-04:00</updated>
+  <content>Referral</content>
+ </entry>
+</feed>
